@@ -971,3 +971,41 @@ a{
 
   border-radius: 0.5em;
 }
+
+/* Styling login page */
+
+.dash-box{
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 3px;
+  background: #e4e4e4;
+}
+
+#footer{
+  background: #333333;
+  color: white;
+  text-align: center;
+  padding: 30px;
+  margin-top: 30px;
+}
+.center{
+width: 33.3% !important;
+}
+
+#login-body{
+
+  color: #fff;
+}
+
+#login-body .logo-header{
+
+  margin: 0px;
+}
+
+#login-body button{
+
+  background: #5a2e98;
+}
+
+
+/*Finished Styling Login Page*/
