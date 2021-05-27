@@ -1009,3 +1009,24 @@ width: 33.3% !important;
 
 
 /*Finished Styling Login Page*/
+
+/*Start Styling The faq */
+
+.faq-body{
+
+  background: #343434;
+  border-radius: 1rem;
+  padding: 2rem;
+  margin: 1rem;
+  color: #ccc;
+}
+
+.faq-header{
+
+  color: #fff;
+  margin-left: 2rem;
+}
+
+
+
+/*Finished Styling The faq*/
