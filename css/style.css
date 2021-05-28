@@ -958,8 +958,15 @@ a{
   font-size: 0.8rem;
 }
 
+.body-img-container a{
+
+  text-decoration: none;
+  color: #666;
+}
+
 #recently-added .meta a{
   color: #666;
+  text-decoration: none;
 }
 
 .more{
